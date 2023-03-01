@@ -93,6 +93,7 @@ a {
 .menu a:focus,
 .menu a:active {
     background-color: #d57baf;
+    color: #1e1457;
 }
 
 .kontakt img {
@@ -108,4 +109,9 @@ a {
 
 .kontakt i {
     margin-left: 30px;
+}
+
+.kontakt a:hover {
+    color:#d57baf;
+    font-style: normal;
 }
