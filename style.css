@@ -48,10 +48,11 @@ nav {
 
 .menu li {
     display: inline-block;
-    padding: 10px 30px;
 }
 
 .menu a {
+    display: inline-block;
+    padding: 10px 30px;
     text-decoration: none;
     color: #b2b6f4;
 }
@@ -73,6 +74,7 @@ a {
 
 .kontakt a {
     color: #1e1457;
+    text-decoration: none;
 }
 
 .obrazky {
@@ -104,6 +106,6 @@ a {
     padding-bottom: 30px;
 }
 
-.kontakt table {
-    padding-left: 30px;
+.kontakt i {
+    margin-left: 30px;
 }
